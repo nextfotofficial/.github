@@ -1,1 +1,1 @@
-[![](NEXTFOT.jpg)](https://nextfotofficial.github.io)
+[![](/profile/NEXTFOT.jpg)](https://nextfotofficial.github.io)
